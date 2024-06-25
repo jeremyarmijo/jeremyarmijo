@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **OSINT methodology**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-gamma-pink-19.vercel.app/](https://portfolio-gamma-pink-19.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-de-jeremy.vercel.app/](https://portfolio-de-jeremy.vercel.app/)
 
 - 📫 How to reach me **jeremy.armijo@epitech.eu**
 
