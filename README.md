@@ -22,7 +22,10 @@
 
 ###
 
-<p align="left">I'm **Jérémy** from **France**<br><br>- 📚 I'm **Epitech Student**<br>- 🌱 I’m currently **CyberSecurity**<br>- 👨‍💻 All of my projects are available at [https://portfolio-de-jeremy.vercel.app/](https://portfolio-de-jeremy.vercel.app/)</p>
+I'm **Jérémy** from **France**<br><br>
+- 📚 I'm **Epitech Student**
+- 🌱 I’m currently **CyberSecurity**
+- 👨‍💻 All of my projects are available at [https://portfolio-de-jeremy.vercel.app/](https://portfolio-de-jeremy.vercel.app/)
 
 ###
 
