@@ -24,7 +24,7 @@
 
 I'm **Jérémy** from **France**<br><br>
 - 📚 I'm **Epitech Student**
-- 🌱 I’m currently **CyberSecurity**
+- 🌱 I’m currently learning **CyberSecurity**
 - 👨‍💻 All of my projects are available at [https://portfolio-de-jeremy.vercel.app/](https://portfolio-de-jeremy.vercel.app/)
 
 ###
